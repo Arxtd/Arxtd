@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Arxtd
-- 👀 I’m interested in 
-- 🌱 I’m currently learning programming Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Arthur
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning programming in scholl of programation Programe.io
+- 💞️ I’m looking to collaborate in
 - 📫 How to reach me ...
 
 <!---
