@@ -20,6 +20,3 @@ Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte d
 &nbsp;<a href="https://www.instagram.com/arthurms_07/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://g1.globo.com/pi/piaui/noticia/2023/04/01/adolescente-de-15-anos-se-torna-programador-com-apenas-5-meses-de-aulas-em-parnaiba.ghtml">
-  <img src="https://anafe.org.br/wp-content/uploads/2018/04/g1-globo.jpg">
-</a>&nbsp;
