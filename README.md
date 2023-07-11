@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arthur
+###👋 Olá, Arthur aqui
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning programming in scholl of programation Programe.io
 - 💞️ I’m looking to collaborate in
