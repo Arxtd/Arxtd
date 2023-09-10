@@ -13,6 +13,8 @@ Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte d
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn-icons-png.flaticon.com/512/4039/4039675.png" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" />&nbsp;&nbsp;
+  
   
 </div> 
 
