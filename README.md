@@ -1,5 +1,5 @@
 ### Arthur aqui :)
-Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte da equipe de desenvolvedores do Notário, sistema de cartório utilizado em mais de 6 estados do Brasil. Curioso sobre programação de jogos e estudando desenvolvimento mobile nas horas vagas.
+Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte da equipe de desenvolvedores do Notário, sistema de cartório utilizado em mais de 6 estados do Brasil. Curioso sobre programação e estudando desenvolvimento mobile nas horas vagas.
 
 - 👨🏻‍💻 **Desenvolvedor** de software na [Foxinline](http://foxinline.com)
 - 🧗🏼 Apaixonado por **Games**
