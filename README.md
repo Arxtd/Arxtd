@@ -23,7 +23,7 @@ Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte d
 
 ##
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/Arxtd/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Arxtd&layout=compact)](https://github.com/Arxtd/github-readme-stats)
 
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/arthurmorais16/">
