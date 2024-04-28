@@ -16,6 +16,7 @@ Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte d
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://www.svgrepo.com/show/354380/spring-icon.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://www.svgrepo.com/show/452091/python.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://www.svgrepo.com/show/255832/sql.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://www.svgrepo.com/show/353498/bootstrap.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 </div> 
