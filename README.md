@@ -1,4 +1,4 @@
-### Arthur aqui :)]
+### Arthur aqui :)
 ### Co-criador do AEE BUDDY
 
 Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte da equipe de desenvolvedores do Notário, sistema de cartório utilizado em mais de 6 estados do Brasil. Curioso sobre programação e estudando desenvolvimento mobile nas horas vagas.
