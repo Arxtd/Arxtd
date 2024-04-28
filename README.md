@@ -7,6 +7,7 @@ Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte d
 - 👨🏻‍💻 **Desenvolvedor** de software na [Foxinline](http://foxinline.com)
 - 🧗🏼 Apaixonado por **Games**
 - 16 anos
+- Leia sobre mim em <a href="https://g1.globo.com/pi/piaui/noticia/2023/04/01/adolescente-de-15-anos-se-torna-programador-com-apenas-5-meses-de-aulas-em-parnaiba.ghtml"> G1 </a>
 
 ##
 
