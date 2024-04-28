@@ -1,6 +1,9 @@
-### Arthur aqui :)
-Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte da equipe de desenvolvedores do Notário, sistema de cartório utilizado em mais de 6 estados do Brasil. Curioso sobre programação e estudando desenvolvimento mobile nas horas vagas.
+### Arthur aqui :)]
+### Co-criador do AEE BUDDY
 
+Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte da equipe de desenvolvedores do Notário, sistema de cartório utilizado em mais de 6 estados do Brasil. Curioso sobre programação e estudando desenvolvimento mobile nas horas vagas.
+- Primeiro campeão do </Seduckhaton> maior competição de progamação de escolas estaduais do Brasil
+- Membro da equipe de desenvolvimento: Notário, Clinic Plus, AEE Buddy
 - 👨🏻‍💻 **Desenvolvedor** de software na [Foxinline](http://foxinline.com)
 - 🧗🏼 Apaixonado por **Games**
 - 16 anos
@@ -23,3 +26,4 @@ Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte d
 &nbsp;<a href="https://www.instagram.com/arthurms_07/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
+
