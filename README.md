@@ -20,10 +20,6 @@ Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte d
   &nbsp;&nbsp;<img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 </div> 
 
-##
-
-[![card](https://github-readme-stats.vercel.app/api?username=Arxtd&theme=default&show_icons=true)](https://github.com/Arxtd/Arxtd/github-readme-stats)
-
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/arthurmorais16/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
