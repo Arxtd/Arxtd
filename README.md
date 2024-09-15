@@ -5,7 +5,7 @@ Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte d
 - Membro da equipe de desenvolvimento: Notário, Clinic Plus, AEE Buddy
 - 👨🏻‍💻 **Desenvolvedor** de software na [Foxinline](http://foxinline.com)
 - 🧗🏼 Apaixonado por **Games**
-- 16 anos
+- 17 anos
 - Meu portfólio <a href="www.arthurmorais.com.br"> arthurmorais.com.br </a>
 
 ##
