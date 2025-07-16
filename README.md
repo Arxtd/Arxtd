@@ -1,29 +1,65 @@
-### Arthur aqui :)
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQFx2c4KQ6-3gw/profile-displayphoto-shrink_400_400/B4DZZ9iGr0HIAg-/0/1745862815647?e=1758153600&v=beta&t=8_DyR7XADmeup6mCwlgOwHlk1BYU_ZhwqZYzSKuljXI"  />
+</div>
 
-Atualmente sou um Dev Jr, Trabalho na Foxinline Technologies, onde faço parte da equipe de desenvolvedores do Notário, sistema de cartório utilizado em mais de 6 estados do Brasil. Curioso sobre programação e estudando desenvolvimento mobile nas horas vagas.
-- Primeiro campeão do </Seduckhaton> maior competição de progamação de escolas estaduais do Brasil
-- 👨🏻‍💻 **Desenvolvedor** de software na [Foxinline](http://foxinline.com)
-- 🧗🏼 Apaixonado por **Games**
-- 17 anos
-- Meu portfólio <a href="http://www.arthurmorais.com.br"> arthurmorais.com.br </a>
+###
 
-##
+<h1 align="left">Olá, tudo bem?</h1>
 
-## Skills:
-<div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://www.svgrepo.com/show/354380/spring-icon.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://www.svgrepo.com/show/452091/python.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://www.svgrepo.com/show/255832/sql.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://www.svgrepo.com/show/353498/bootstrap.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
-</div> 
+###
 
-### Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/arthurmorais16/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/arthurms_07/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
+<p align="left">Prazer me chamo Arthur Morais, atualmente um desenvolvedor Fullstack e apaixonado por Backend  Java e o primeiro campeão do Seduckhaton(maior hackaton de programação do Piauí), sou do Piauí, Brasil.</p>
 
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Criando bugs desde 2022<br>📚 Java Developer<br>🎯 Principal meta: Criar e desenvolver soluções para o mercado.</p>
+
+###
+
+<h2 align="left">Minhas principais stacks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arxtd/Arxtd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arxtd/Arxtd/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arxtd/Arxtd/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/arthurmorais16/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/arthurms_07/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=8688332034&text=Ol%C3%A1+gostaria+de+bater+um+papo&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
