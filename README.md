@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQFx2c4KQ6-3gw/profile-displayphoto-shrink_400_400/B4DZZ9iGr0HIAg-/0/1745862815647?e=1758153600&v=beta&t=8_DyR7XADmeup6mCwlgOwHlk1BYU_ZhwqZYzSKuljXI"  />
-</div>
-
-###
-
 <h1 align="left">Olá, tudo bem?</h1>
 
 ###
